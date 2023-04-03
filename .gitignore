@@ -2,6 +2,6 @@
 /aws-instructions.md
 /beat-writer.pem
 /deploy.zip
-*.json
+json/*
 cache
 __pycache__
